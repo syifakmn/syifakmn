@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Syifakmn&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=⭐⭐⭐⭐⭐Syifakmn⭐⭐⭐⭐⭐&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
 
 ### 🎨 SMK 8 Surabaya | Desain Komunikasi Visual
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Creative+Visual+Designer+from+Surabaya;Passionate+About+Graphic+Design;Turning+Ideas+into+Visual+Stories;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=BUKA+Lowongan+Pekerjaan;Info+19+Juta+Lapangan+Padel;Aku+Siswa+Smekdels;Tutor+Desain+Ada+Di+Smekdels!)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,12 +38,12 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width="65"/>
 <br><strong>Photoshop</strong>
-<br>⭐⭐⭐⭐⭐
+<br>⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png" width="65"/>
 <br><strong>Illustrator</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65"/>
@@ -53,14 +53,14 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/canva.png" width="65"/>
 <br><strong>Canva</strong>
-<br>⭐⭐⭐⭐⭐
+<br>⭐⭐
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/adobe-indesign--v1.png" width="65"/>
 <br><strong>InDesign</strong>
-<br>⭐⭐⭐
+<br>⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/coreldraw.png" width="65"/>
@@ -70,7 +70,7 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
 <br><strong>Social Media</strong>
-<br>⭐⭐⭐⭐
+<br>⭐⭐⭐⭐⭐⭐⭐⭐⭐
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/video-editing.png" width="65"/>
@@ -125,10 +125,10 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 
 ## 📚 Pengalaman & Pencapaian
 
-- 🎨 **Juara [posisi] Lomba Design** - [Nama Event/Institusi] (2024)
-- 📜 **Sertifikat [Nama Program]** - [Platform/Institusi] (2024)
-- 🏆 **Peserta [Workshop/Event]** - [Nama Event] (2024)
-- ⭐ **Project [Nama Project]** - [Deskripsi singkat] (2023)
+- 🎨 **Juara [1] Lomba Design** - [Lomba LKS SeSurabaya] (2024)
+- 📜 **Sertifikat [Magang]** - [Smile Island] (2025)
+- 🏆 **Peserta [Event]** - [MotionImeFest] (2025)
+- ⭐ **Project [Project Keberangkatan Khatulistiwa]** - [#NoOneCanBeatMe!] (2022)
 
 
 ---
@@ -143,10 +143,10 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](link-portfolio-kamu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robbywilliamsp/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syifakmn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-linkedin-kamu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robbywilliamspascal@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281805533332)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syifakmn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6283116478568)
 
 <br>
 
